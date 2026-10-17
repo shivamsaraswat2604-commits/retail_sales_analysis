@@ -1,0 +1,101 @@
+TransactionID,Date,Month,ProductID,ProductName,Category,Quantity,UnitPrice,TotalRevenue,Region
+TXN-001,2025-08-03,August,P007,Desk Lamp,Furniture,4,45.0,180.0,North
+TXN-002,2025-07-09,July,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,North
+TXN-003,2025-07-27,July,P005,Standing Desk,Furniture,1,350.0,350.0,South
+TXN-004,2025-02-22,February,P007,Desk Lamp,Furniture,4,45.0,180.0,South
+TXN-005,2025-08-05,August,P003,HD Monitor,Electronics,4,150.0,600.0,West
+TXN-006,2025-02-10,February,P005,Standing Desk,Furniture,1,350.0,350.0,East
+TXN-007,2025-10-28,October,P005,Standing Desk,Furniture,1,350.0,350.0,North
+TXN-008,2025-11-23,November,P007,Desk Lamp,Furniture,1,45.0,45.0,West
+TXN-009,2025-05-09,May,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,West
+TXN-010,2025-03-04,March,P003,HD Monitor,Electronics,3,150.0,450.0,East
+TXN-011,2025-03-22,March,P007,Desk Lamp,Furniture,4,45.0,180.0,East
+TXN-012,2025-10-16,October,P003,HD Monitor,Electronics,3,150.0,450.0,North
+TXN-013,2025-08-19,August,P003,HD Monitor,Electronics,2,150.0,300.0,North
+TXN-014,2025-01-28,January,P005,Standing Desk,Furniture,3,350.0,1050.0,North
+TXN-015,2025-11-24,November,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,South
+TXN-016,2025-02-02,February,P003,HD Monitor,Electronics,4,150.0,600.0,East
+TXN-017,2025-03-03,March,P006,USB-C Hub,Accessories,4,40.0,160.0,North
+TXN-018,2025-04-09,April,P005,Standing Desk,Furniture,4,350.0,1400.0,West
+TXN-019,2025-08-02,August,P002,Mechanical Keyboard,Electronics,3,75.0,225.0,East
+TXN-020,2025-08-15,August,P004,Ergonomic Office Chair,Furniture,1,200.0,200.0,East
+TXN-021,2025-05-11,May,P006,USB-C Hub,Accessories,1,40.0,40.0,North
+TXN-022,2025-08-06,August,P006,USB-C Hub,Accessories,3,40.0,120.0,East
+TXN-023,2025-12-25,December,P002,Mechanical Keyboard,Electronics,3,75.0,225.0,North
+TXN-024,2025-07-26,July,P004,Ergonomic Office Chair,Furniture,3,200.0,600.0,South
+TXN-025,2025-02-11,February,P005,Standing Desk,Furniture,4,350.0,1400.0,North
+TXN-026,2025-06-28,June,P001,Wireless Mouse,Electronics,3,25.0,75.0,West
+TXN-027,2025-08-19,August,P004,Ergonomic Office Chair,Furniture,1,200.0,200.0,West
+TXN-028,2025-04-06,April,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,South
+TXN-029,2025-08-19,August,P006,USB-C Hub,Accessories,1,40.0,40.0,East
+TXN-030,2025-06-20,June,P005,Standing Desk,Furniture,1,350.0,350.0,West
+TXN-031,2025-01-13,January,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,East
+TXN-032,2025-07-06,July,P001,Wireless Mouse,Electronics,3,25.0,75.0,South
+TXN-033,2025-10-11,October,P001,Wireless Mouse,Electronics,2,25.0,50.0,South
+TXN-034,2025-02-14,February,P003,HD Monitor,Electronics,2,150.0,300.0,North
+TXN-035,2025-05-14,May,P003,HD Monitor,Electronics,4,150.0,600.0,West
+TXN-036,2025-04-18,April,P007,Desk Lamp,Furniture,4,45.0,180.0,West
+TXN-037,2025-10-13,October,P002,Mechanical Keyboard,Electronics,2,75.0,150.0,East
+TXN-038,2025-05-08,May,P004,Ergonomic Office Chair,Furniture,2,200.0,400.0,East
+TXN-039,2025-12-14,December,P004,Ergonomic Office Chair,Furniture,1,200.0,200.0,East
+TXN-040,2025-07-09,July,P007,Desk Lamp,Furniture,1,45.0,45.0,North
+TXN-041,2025-10-10,October,P006,USB-C Hub,Accessories,2,40.0,80.0,North
+TXN-042,2025-04-26,April,P006,USB-C Hub,Accessories,1,40.0,40.0,North
+TXN-043,2025-09-16,September,P007,Desk Lamp,Furniture,3,45.0,135.0,South
+TXN-044,2025-05-17,May,P006,USB-C Hub,Accessories,2,40.0,80.0,North
+TXN-045,2025-08-13,August,P003,HD Monitor,Electronics,3,150.0,450.0,South
+TXN-046,2025-06-21,June,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,East
+TXN-047,2025-11-11,November,P007,Desk Lamp,Furniture,2,45.0,90.0,West
+TXN-048,2025-04-06,April,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,North
+TXN-049,2025-06-29,June,P001,Wireless Mouse,Electronics,1,25.0,25.0,South
+TXN-050,2025-02-21,February,P003,HD Monitor,Electronics,4,150.0,600.0,South
+TXN-051,2025-10-22,October,P005,Standing Desk,Furniture,2,350.0,700.0,East
+TXN-052,2025-04-23,April,P003,HD Monitor,Electronics,1,150.0,150.0,North
+TXN-053,2025-03-22,March,P007,Desk Lamp,Furniture,3,45.0,135.0,North
+TXN-054,2025-01-02,January,P005,Standing Desk,Furniture,2,350.0,700.0,West
+TXN-055,2025-02-23,February,P001,Wireless Mouse,Electronics,3,25.0,75.0,North
+TXN-056,2025-08-12,August,P007,Desk Lamp,Furniture,1,45.0,45.0,North
+TXN-057,2025-05-06,May,P002,Mechanical Keyboard,Electronics,2,75.0,150.0,North
+TXN-058,2025-06-21,June,P004,Ergonomic Office Chair,Furniture,2,200.0,400.0,West
+TXN-059,2025-07-17,July,P001,Wireless Mouse,Electronics,4,25.0,100.0,East
+TXN-060,2025-11-20,November,P004,Ergonomic Office Chair,Furniture,3,200.0,600.0,East
+TXN-061,2025-07-03,July,P006,USB-C Hub,Accessories,3,40.0,120.0,North
+TXN-062,2025-09-12,September,P002,Mechanical Keyboard,Electronics,2,75.0,150.0,West
+TXN-063,2025-11-21,November,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,South
+TXN-064,2025-07-17,July,P001,Wireless Mouse,Electronics,2,25.0,50.0,East
+TXN-065,2025-08-28,August,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,North
+TXN-066,2025-07-20,July,P005,Standing Desk,Furniture,4,350.0,1400.0,East
+TXN-067,2025-11-22,November,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,North
+TXN-068,2025-09-16,September,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,West
+TXN-069,2025-12-12,December,P004,Ergonomic Office Chair,Furniture,3,200.0,600.0,East
+TXN-070,2025-05-27,May,P007,Desk Lamp,Furniture,4,45.0,180.0,West
+TXN-071,2025-07-18,July,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,North
+TXN-072,2025-05-08,May,P007,Desk Lamp,Furniture,3,45.0,135.0,South
+TXN-073,2025-12-26,December,P004,Ergonomic Office Chair,Furniture,1,200.0,200.0,East
+TXN-074,2025-05-31,May,P005,Standing Desk,Furniture,3,350.0,1050.0,South
+TXN-075,2025-10-25,October,P007,Desk Lamp,Furniture,3,45.0,135.0,East
+TXN-076,2025-09-09,September,P003,HD Monitor,Electronics,4,150.0,600.0,South
+TXN-077,2025-04-22,April,P006,USB-C Hub,Accessories,1,40.0,40.0,West
+TXN-078,2025-03-01,March,P001,Wireless Mouse,Electronics,1,25.0,25.0,South
+TXN-079,2025-10-31,October,P004,Ergonomic Office Chair,Furniture,2,200.0,400.0,West
+TXN-080,2025-02-06,February,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,East
+TXN-081,2025-01-09,January,P004,Ergonomic Office Chair,Furniture,1,200.0,200.0,East
+TXN-082,2025-05-27,May,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,West
+TXN-083,2025-05-11,May,P006,USB-C Hub,Accessories,4,40.0,160.0,West
+TXN-084,2025-02-23,February,P006,USB-C Hub,Accessories,4,40.0,160.0,North
+TXN-085,2025-04-26,April,P006,USB-C Hub,Accessories,3,40.0,120.0,North
+TXN-086,2025-04-14,April,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,South
+TXN-087,2025-08-15,August,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,South
+TXN-088,2025-04-09,April,P006,USB-C Hub,Accessories,1,40.0,40.0,North
+TXN-089,2025-12-04,December,P005,Standing Desk,Furniture,2,350.0,700.0,South
+TXN-090,2025-06-12,June,P007,Desk Lamp,Furniture,4,45.0,180.0,North
+TXN-091,2025-06-18,June,P002,Mechanical Keyboard,Electronics,4,75.0,300.0,North
+TXN-092,2025-03-09,March,P002,Mechanical Keyboard,Electronics,1,75.0,75.0,South
+TXN-093,2025-10-04,October,P004,Ergonomic Office Chair,Furniture,4,200.0,800.0,West
+TXN-094,2025-05-15,May,P002,Mechanical Keyboard,Electronics,3,75.0,225.0,North
+TXN-095,2025-05-08,May,P002,Mechanical Keyboard,Electronics,1,75.0,75.0,West
+TXN-096,2025-01-22,January,P006,USB-C Hub,Accessories,2,40.0,80.0,South
+TXN-097,2025-02-07,February,P004,Ergonomic Office Chair,Furniture,2,200.0,400.0,North
+TXN-098,2025-02-20,February,P006,USB-C Hub,Accessories,2,40.0,80.0,West
+TXN-099,2025-10-10,October,P007,Desk Lamp,Furniture,3,45.0,135.0,South
+TXN-100,2025-10-04,October,P007,Desk Lamp,Furniture,2,45.0,90.0,North
